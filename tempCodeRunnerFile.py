@@ -1,0 +1,1 @@
+train['Latitude'] = train['Latitude'].fillna(train['Latitude'].median())
